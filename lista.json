@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0001",
+    "Marca": "Bmw",
+    "Targa": "AAA123BB",
+    "nome": "Riccardo",
+    "cognome": "Grano"
+  },
+  {
+    "id": "0002",
+    "Marca": "Audi",
+    "Targa": "AAB123BB",
+    "nome": "Salvatore",
+    "cognome": "Pisano"
+  },
+  {
+    "id": "0005",
+    "Marca": "Bmw",
+    "Targa": "ABA123AB",
+    "nome": "Sunil",
+    "cognome": "Polidori"
+  },
+  {
+    "id": "0005",
+    "nome": "Sunil",
+    "cognome": "Polidori",
+    "eta": 39
+  }
+]
