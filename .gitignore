@@ -1,0 +1,6 @@
+#Directory
+.git
+node_modules
+
+#File json
+*.json
