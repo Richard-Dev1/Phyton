@@ -1,6 +1,10 @@
 # Chiedi all'utente di inserire due valori
-valore1 = input("Inserisci il primo valore: ")
-valore2 = input("Inserisci il secondo valore: ")
+# valore1 = input("Inserisci il primo valore: ")
+# valore2 = input("Inserisci il secondo valore: ")
+
+import sys 
+valore = sys.argv][1]
+valore = sys.argv][2]
 
 # Verifica se entrambi i valori sono numeri
 if valore1.isnumeric() and valore2.isnumeric():

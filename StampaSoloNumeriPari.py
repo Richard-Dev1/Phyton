@@ -1,6 +1,10 @@
-#prende tutti i numeri nel range (1,11)
-for numero in range(1,11): 
-#Quando il numero è divisibile per 2 e restituisce 0, allora STAMPA il numero
-   if numero % 2 ==0;
-#Stampa SOLO i numeri Pari
-      print(numero);
+# Input dell'utente
+numero = float(input("Inserisci un numero: "))
+
+# Verifica se il numero è positivo, negativo o nullo
+if numero > 0:
+    print("Il numero è positivo.")
+elif numero < 0:
+    print("Il numero è negativo.")
+else:
+    print("Il numero è nullo.")
